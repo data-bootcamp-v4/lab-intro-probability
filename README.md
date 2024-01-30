@@ -51,4 +51,4 @@ Complete the challenges in the notebook. Follow the instructions and add your co
 
 ## Submission
 
-- Submit your solutions in the Student Portgal
+- Submit your solutions in the Student Portal
