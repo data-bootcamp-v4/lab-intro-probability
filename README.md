@@ -25,7 +25,7 @@
   </summary>
 Before this starting this lab, you should have learnt about:
 
-- Basic Probabilities notions.
+- Basic Probabilities concepts.
 - Understand difference between distributions and where/how to apply them in a business context.
 
   <br>
@@ -51,4 +51,4 @@ Complete the challenges in the notebook. Follow the instructions and add your co
 
 ## Submission
 
-- Submit your solutions in the Student Portal
+- Submit your solutions in the Student Portal.
