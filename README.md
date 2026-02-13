@@ -1,54 +1,50 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | Introduction to Probability
+# Laboratorio | Introducción a la Probabilidad
 
 <details>
-  <summary>
-   <h2>Learning Goals</h2>
-  </summary>
+<summary>
+<h2>Objetivos de Aprendizaje</h2>
+</summary>
 
-  This exercise allows you to practice and apply the concepts and techniques taught in class. 
+Este ejercicio te permite practicar y aplicar los conceptos y técnicas enseñados en clase.
 
-  Upon completion of this exercise, you will be able to:
-  
-  - Identify different probabilities distributions.
-  - Calculate pmf/cdf for given problems.
-  
-  <br>
-  <hr> 
+Al completar este ejercicio, podrás:
+
+- Identificar diferentes distribuciones de probabilidad.
+- Calcular pmf/cdf para problemas dados.
+
+<br>
+<hr>
 
 </details>
 
 <details>
-  <summary>
-   <h2>Prerequisites</h2>
-  </summary>
-Before this starting this lab, you should have learnt about:
+<summary>
+<h2>Requisitos Previos</h2>
+</summary>
+Antes de comenzar este laboratorio, deberías haber aprendido sobre:
 
-- Basic Probabilities concepts.
-- Understand difference between distributions and where/how to apply them in a business context.
+- Conceptos básicos de probabilidad.
+- Entender la diferencia entre distribuciones y dónde/cómo aplicarlas en un contexto empresarial.
 
-  <br>
-  <hr> 
+<br>
+<hr>
 
 </details>
 
-## Introduction
+## Introducción
 
-In this exercise, you will have the opportunity to dive into one of the fundamental of probability.
+En este ejercicio, tendrás la oportunidad de profundizar en uno de los fundamentos de la probabilidad.
 
 <br>
 
-**Happy coding!** :heart:
+**¡Feliz programación!** :heart:
 
+## Comenzando
 
+Completa los desafíos en el cuaderno. Sigue las instrucciones y agrega tu código y explicaciones según sea necesario.
 
+## Entrega
 
-## Getting Started
-
-Complete the challenges in the notebook. Follow the instructions and add your code and explanations as necessary.
-
-
-## Submission
-
-- Submit your solutions in the Student Portal.
+- Envía tus soluciones en el Portal del Estudiante.
